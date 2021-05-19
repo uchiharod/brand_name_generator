@@ -1,3 +1,4 @@
+#First, make sure the proper python library is imported before anything else.
 import random
 
 suits = ('Hearts', 'Diamonds', 'Spades', 'Clubs')
