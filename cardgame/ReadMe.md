@@ -11,7 +11,7 @@ A standard deck of playing cards has four suits (Hearts, Diamonds, Spades and Cl
 cards.py
 
 ### Credits
-Exercise done on my Jupyter Notebook 
+Exercise done on my Jupyter Notebook and brought over onto github
 
 ### Objective 
 To build upon my existing python skills and to build my github portfolio
