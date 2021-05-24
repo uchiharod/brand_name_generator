@@ -18,6 +18,7 @@ class Card:
     def __str__(self):
         return self.rank + ' of ' + self.suit
 
+#Create the Card deck class
 class Deck:
     
     def __init__(self):
