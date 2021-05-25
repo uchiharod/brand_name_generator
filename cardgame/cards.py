@@ -33,7 +33,7 @@ class Deck:
             deck_comp += '\n '+card.__str__() # add each Card object's print string
         return 'The deck has:' + deck_comp
 
-    def shuffle(self):
+    def shuffle(self): # Do shuffling 
         random.shuffle(self.deck)
         
     def deal(self):
