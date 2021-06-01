@@ -10,3 +10,7 @@ my_dict2['key4']
 my_dict3 = {'key5':'value5','key6':'value6'}
 
 my_dict3['key6']
+
+my_dict4 = {'key7':'value7','key8':'value8'}
+
+my_dict4['key8']
