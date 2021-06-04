@@ -84,6 +84,8 @@ class Hand:
             self.value -= 10
             self.aces -= 1 
 
+# This is class Chips
+
 class Chips:
     
     def __init__(self):
