@@ -14,3 +14,7 @@ my_dict3['key6']
 my_dict4 = {'key7':'value7','key8':'value8'}
 
 my_dict4['key8']
+
+my_dict4 = {'key9':'value9','key10':'value10'}
+
+my_dict4['key10']
