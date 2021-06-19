@@ -84,7 +84,7 @@ class Hand:
             self.value -= 10
             self.aces -= 1 
 
-# This is class Chips
+# This is class Chips and taking bets 
 
 class Chips:
     
