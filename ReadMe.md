@@ -11,4 +11,4 @@ In this program, I use Python to give the user of the form a way to generate the
 brand_name_generator.py
 
 ### Objective 
-To build upon my existing python skills and to build my github portfolio
+To build upon my existing python skills and to build my github portfolio.
